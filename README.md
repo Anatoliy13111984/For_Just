@@ -2,11 +2,11 @@
 
 ## Оглавление
 
-[1. Описание проекта]()
+[1. Описание проекта](https://github.com/Anatoliy13111984/Project_1_/tree/main#Описание-проекта)
 
-[2. Какой кейс решаем]()
+[2. Какой кейс решаем](https://github.com/Anatoliy13111984/Project_1_/tree/main#Какой-кейс-решаем)
 
-[3. Результаты]()
+[3. Результаты](https://github.com/Anatoliy13111984/Project_1_/tree/main#Результаты)
 
 
 
