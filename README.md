@@ -49,7 +49,7 @@
 Сылки на исходные датасеты:
 
 * [Резюме соискателей](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
-* [Курсы валют](https://drive.google.com/drive/my-drive)
+* [Курсы валют](https://drive.google.com/file/d/1Iw6XuWsCVH_SbD0uVqTuTEBnllaq9MVn/view?usp=share_link)
 
 
 
