@@ -41,16 +41,17 @@
 
 ## Результаты:
 
-[Ноутбук с выполненными заданиями]()
+[Ноутбук с выполненными заданиями](https://github.com/Anatoliy13111984/Project_1_/blob/main/imeged/Project-1.%20%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%20(1).ipynb)
 
 
 [⬆️к оглавлению]()
 
 Сылки на исходные датасеты:
 
-* [Резюме соискателей]()
-* [Курсы валют]()
+* [Резюме соискателей](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
+* [Курсы валют](https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/ExchangeRates.zip)
 
 
-[Сохраненные графика плотли]()
+
+[Сохраненные графика плотли](https://github.com/Anatoliy13111984/Project_1_/tree/main/imeged/images)
 
